@@ -1,5 +1,5 @@
 # noob testing
-what are this
+hello world
 
 ## please be nice,
-it's my first coding repository
+it's my first coding repository:)
